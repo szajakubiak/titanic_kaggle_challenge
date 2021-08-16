@@ -8,7 +8,7 @@ Details of the challenge can be found [here](https://www.kaggle.com/c/titanic). 
 
 ## Dependencies
 
-Besides Python 3 some additional libraries need to be installed. They are listed in the **dependencies.txt** file.
+Besides Python 3 some additional libraries needs to be installed. They are listed in the **dependencies.txt** file.
 To install dependencies run the following command:
 
     pip install -r dependencies.txt
